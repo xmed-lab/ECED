@@ -2,8 +2,8 @@
 
 # TODO
 We will complete the TODO list in the following weeks.
-[] Release the book source and license information.
-[] Release the pipeline code.
+- [] Release the book source and license information.
+- [] Release the pipeline code.
 
 
 # Required API Keys
