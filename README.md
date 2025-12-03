@@ -2,7 +2,6 @@
 
 # TODO
 We will complete the TODO list in the following weeks.
-- [] Release the book source and license information.
 - [] Release the pipeline code.
 
 
@@ -22,6 +21,13 @@ This automatic pipeline converts Echocardiography PDFs to Concept-Indexed Databa
 - Medical keywords for searchability
 
 
+## Knowledge Sources
+Please check out the sheets [here](https://docs.google.com/spreadsheets/d/1H0mMDGJnkGrlTJSoaKGBSfqQSXxVTbS35Pe8BuULq4s/edit?usp=sharing).
+
+- For books, we obtained either physical or digital copies (PDF versions) through our clinical collaborators. \
+- For clinical guidelines, we accessed the PDF versions under an Open Access license via the institutional library using Elsevier's Text and Data Mining (TDM) services.
+
+**All resources used in this work were obtained and processed solely for non-commercial research purposes. We strongly encourage others to obtain these resources through their institutional libraries or through appropriate purchasing channels, and to use them in accordance with licensing terms and strictly for non-commercial research purposes.**
 
 ## Installation
 
