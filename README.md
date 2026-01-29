@@ -1,7 +1,7 @@
 # [MICCAI 2025] Multi-Agent Collaboration for Integrating Echocardiography Expertise in Multi-Modal Large Language Models
 
 # TODO
-[] In Step 1, we identified an issue where a recent Mistral OCR upgrade causes over-segmentation when image boundaries are unclear (e.g., splitting a single figure into six sub-images before our process). I am currently adapting the pipeline to the new version of MinerU to resolve this as soon as possible. In the meantime, you can still use the code for the remaining steps in your workflow, and once the OCR fix is in place, the entire pipeline will function properly again.
+[] In Step 1, we identified an issue where a recent Mistral OCR upgrade causes over-segmentation when image boundaries are unclear (e.g., splitting a single figure into six sub-images before our process). I am currently adapting the pipeline to the new version of MinerU to resolve this as soon as possible. In the meantime, you can still use the code for the remaining steps in your workflow, and once the OCR fix is in place, the entire pipeline will function properly again. You can contact yqinar@connect.ust.hk for any questions or feedback.
 
 
 # Required API Keys
