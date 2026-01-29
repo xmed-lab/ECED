@@ -55,31 +55,6 @@ QWEN_KEY = "your-qwen-api-key"
 
 ---
 
-## Directory Structure
-
-```
-release_v1/
-├── step1-mistral_ocr.py
-├── step2-rawContentSplit.py
-├── step3-checkSplitSubcaption.py
-├── step4-splitSubfigure.py
-├── step5-cleanTextandKeywords.py
-├── key.py (create this - not in repo)
-├── Todo/
-│   ├── ENG/
-│   │   ├── Guideline/
-│   │   └── Textbook/
-│   └── CHN/
-│       ├── Guideline/
-│       └── Textbook/
-├── Intermediate/
-│   └── [Generated during processing]
-└── final_output/
-    └── [Final results with keywords]
-```
-
----
-
 ## Usage
 
 ### Running the Complete Pipeline
